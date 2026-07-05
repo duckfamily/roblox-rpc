@@ -28,7 +28,6 @@
 
 # 📸 Скриншоты
 
-> **Вставь сюда изображения приложения.**
 
 <p align="center">
 <img src="assets/screenshot1.png" width="30%">
@@ -50,7 +49,6 @@
 
 ## ⚙️ Как это выглядит
 
-> Здесь можно добавить ещё один большой скриншот.
 
 <p align="center">
 <img src="assets/preview.png" width="90%">
