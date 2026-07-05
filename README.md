@@ -51,7 +51,7 @@
 
 
 <p align="center">
-<img src="assets/preview.png" width="50%">
+<img src="assets/preview.png" width="25%">
 </p>
 
 ---
